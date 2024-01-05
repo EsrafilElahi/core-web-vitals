@@ -5,3 +5,4 @@
 * for images - use width and height size (in nextjs use <Image width={400} height={400} />)
 * good : .1s or less
 
+ 
